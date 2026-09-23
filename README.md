@@ -52,6 +52,43 @@ Explore the interactive dashboard:
 
 ## Key Findings & Business Recommendations
 
-This section will present the main findings
-and actionable recommendations derived from
-the completed dashboard.
+### Key Findings
+
+- The dashboard covers 500 Airbnb listings, with a 75.68% occupancy rate, an average price of $158.02, an average review score of 4.67, and reported total revenue of $8.06M.
+- Hosts responding within one hour have a 78.31% occupancy rate, compared with 73.02% for hosts taking several days to respond.
+- Premium listings ($175–$250) record an average of 91.34 occupied days, compared with 67.72 days for budget listings (under $100).
+- Entire homes and apartments represent approximately 90% of the property-type distribution shown in the dashboard.
+
+### Business Recommendations
+
+- Explore automated messaging and faster host response workflows to support guest communication.
+- Investigate the characteristics of premium listings to identify practices that may be relevant to other pricing segments.
+- Test seasonal pricing strategies using occupancy and revenue metrics to evaluate their effectiveness.
+
+These findings describe associations within the analyzed dataset and do not establish causal relationships.
+
+
+## Dashboard Screenshots
+
+### 1. Dashboard Overview
+
+Overview of key performance indicators, including total
+listings, occupancy rate, average price, average review
+score, total revenue, and monthly performance trends.
+
+![Dashboard Overview](images/7DD8B681-AF10-41CE-B285-C6CF3F1E11BC.jpeg)
+
+### 2. Segment & Host Performance Analysis
+
+Analysis of host response times, revenue distribution
+across pricing segments, property types, and average
+occupied days.
+
+![Segment Analysis](images/5F773D5C-0FC0-470D-9F91-88CF2B4F3E16.jpeg)
+
+### 3. Price & Occupancy Analysis
+
+Visualization of the relationship between nightly
+pricing and occupied days across Airbnb listings.
+
+![Price and Occupancy](images/price-occupancy.jpeg)
